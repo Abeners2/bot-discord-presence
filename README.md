@@ -1,9 +1,10 @@
 # bot-discord-presence
-Um Bot que programei em Javascript no começo de 2023 para uma colega, É um bot do Discord que notifica quando um usuário específico fica online.
+## Um Bot que programei em Javascript no começo de 2023 para uma colega, É um bot do Discord que notifica quando um usuário específico fica online.
 
-Simples porém como ele funciona:
-Importação da biblioteca do Discord.js:
+### Simples porém como ele funciona:
+### Importação da biblioteca do Discord.js:
 
+'''javascript
 const Discord = require('discord.js');
 Este comando importa a biblioteca discord.js, que facilita a interação com a API do Discord.
 
