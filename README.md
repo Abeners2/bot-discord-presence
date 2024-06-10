@@ -9,7 +9,7 @@ Um Bot que programei em Javascript no começo de 2023 a pedido de um colega. É 
 ```javascript
 const Discord = require('discord.js');
 ```
-que facilita a interação com a API do Discord.
+Que facilita a interação com a API do Discord.
 
 
 ### Criação de uma nova instância do cliente do Discord:
