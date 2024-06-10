@@ -41,7 +41,7 @@ client.on('presenceUpdate', (oldPresence, newPresence) => {
 ```
 Este evento é disparado sempre que a presença de um usuário é atualizada.
 Verifica se o usuário ficou online (newPresence.status === 'online') e se o ID do usuário é o esperado (newPresence.member.id === 'ID-ALVO').
-Se ambas as condições forem verdadeiras, o bot envia uma mensagem privada para outro usuário informando que o membro ficou online. Substitua 'TARGET_USER_ID' pelo ID do usuário alvo e 'DESTINATARIO-MENSAGEM' pelo ID do destinatário.
+Se ambas as condições forem verdadeiras, o bot envia uma mensagem privada para outro usuário informando que o membro ficou online. Substitua 'ID-ALVO' pelo ID do usuário alvo e 'DESTINATARIO-MENSAGEM' pelo ID do destinatário.
 
 ***Observações Importantes***
 ## Segurança do Token:
