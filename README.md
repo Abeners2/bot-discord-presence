@@ -61,7 +61,7 @@ Salve o código em um arquivo, por exemplo bot-presenca.js.
 ### Execute o bot:
 
 ```bash
-node bot.js
+node bot-discord-presence.js
 ```
 ## Licença
 
